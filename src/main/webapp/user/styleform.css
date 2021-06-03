@@ -1,0 +1,36 @@
+.container{
+    background: linear-gradient(to top, #8e9eab, #eef2f3);
+    text-align: -webkit-center;
+}
+
+.legend{
+    padding-top: 30px;
+    font-size: larger;
+    font-family: fantasy;
+    color: peru;
+    text-align: center;
+}
+
+h1{
+    color: antiquewhite;
+    font-family: fangsong;
+}
+
+table{
+    width: 60%;
+    height: auto;
+    margin: 0;
+    border: 1px solid black;
+    padding: 5px;
+}
+td,th{
+    border: 1px solid black;
+}
+a{
+    color: antiquewhite;
+    font-size: larger;
+    font-family: fantasy;
+}
+body{
+    background: #717171;
+}
